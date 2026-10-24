@@ -10,6 +10,12 @@ alphabetical order.
 | Tech | What it is | Added |
 |---|---|---|
 | [Cua](https://cua.ai) | Open-source infrastructure for computer-use agents: sandboxes, desktop driver and SDK | 2026-10-24 |
+
+## LLM Inference
+
+| Tech | What it is | Added |
+|---|---|---|
+| [AirLLM](https://github.com/lyogavin/airllm) | Runs 70B+ LLMs on a single 4GB GPU by loading layers on demand, no quantization needed | 2026-10-24 |
 <!-- techs:end -->
 
 ## How to add a tech
