@@ -10,6 +10,7 @@ alphabetical order.
 | Tech | What it is | Added |
 |---|---|---|
 | [Cua](https://cua.ai) | Open-source infrastructure for computer-use agents: sandboxes, desktop driver and SDK | 2026-10-24 |
+| [Hallmark](https://www.usehallmark.com/) | Design skill for coding agents: 48 themes and a browser linter that rejects AI-looking pages | 2026-10-24 |
 
 ## LLM Inference
 
