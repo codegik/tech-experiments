@@ -18,6 +18,12 @@ alphabetical order.
 | Tech | What it is | Added |
 |---|---|---|
 | [AirLLM](https://github.com/lyogavin/airllm) | Runs 70B+ LLMs on a single 4GB GPU by loading layers on demand, no quantization needed | 2026-10-24 |
+
+## Testing
+
+| Tech | What it is | Added |
+|---|---|---|
+| [e2e (TesterArmy)](https://github.com/tester-army/e2e) | E2E testing framework for web and mobile: an agent drives the app from natural-language goals | 2026-10-28 |
 <!-- techs:end -->
 
 ## How to add a tech
