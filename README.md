@@ -9,6 +9,7 @@ alphabetical order.
 
 | Tech | What it is | Added |
 |---|---|---|
+| [Cloudflare Code Mode](https://developers.cloudflare.com/agents/tools/codemode/) | Agents write code that calls MCP/tools as typed methods, run in a sandbox, instead of one call each | 2026-10-28 |
 | [Cua](https://cua.ai) | Open-source infrastructure for computer-use agents: sandboxes, desktop driver and SDK | 2026-10-24 |
 | [dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) | Agent skill that turns a UI component into an Apple-style dimensional spec sheet, with optional motion | 2026-10-26 |
 | [Hallmark](https://www.usehallmark.com/) | Design skill for coding agents: 48 themes and a browser linter that rejects AI-looking pages | 2026-10-24 |
