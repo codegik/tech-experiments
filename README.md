@@ -26,6 +26,12 @@ alphabetical order.
 | Tech | What it is | Added |
 |---|---|---|
 | [e2e (TesterArmy)](https://github.com/tester-army/e2e) | E2E testing framework for web and mobile: an agent drives the app from natural-language goals | 2026-10-28 |
+
+## Web Standards
+
+| Tech | What it is | Added |
+|---|---|---|
+| [HTTP QUERY method (RFC 10008)](https://www.rfc-editor.org/rfc/rfc10008.html) | New HTTP method: safe, idempotent, cacheable request with a body, for queries too big for GET | 2026-10-30 |
 <!-- techs:end -->
 
 ## How to add a tech
