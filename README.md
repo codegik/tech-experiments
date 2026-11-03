@@ -15,7 +15,20 @@ alphabetical order.
 | [Hallmark](https://www.usehallmark.com/) | Design skill for coding agents: 48 themes and a browser linter that rejects AI-looking pages | 2026-10-24 |
 | [Jev Ultrafast](https://github.com/browser-use/jev-ultrafast) | Browser agent where TypeSafe's Jev picks operation and element; a small LLM only types text | 2026-10-28 |
 | [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview) | Framework for agent graphs: explicit nodes, edges and shared state, with checkpoints and human approval | 2026-10-30 |
+| [OpenBot](https://github.com/CopilotKit/OpenBot) | Self-hosted AI coworkers for teams: own browser, files and granted tools; every action audited | 2026-11-03 |
 | [UTCP](https://www.utcp.io/) | Lets agents call tools directly via their native APIs, without an MCP-style wrapper server | 2026-11-03 |
+
+## Developer Tools
+
+| Tech | What it is | Added |
+|---|---|---|
+| [Floci](https://github.com/floci-io/floci) | Free local AWS emulator (LocalStack alternative): no account or token, just docker compose up | 2026-11-03 |
+
+## LLM Customization
+
+| Tech | What it is | Added |
+|---|---|---|
+| [Heretic](https://heretic-project.org/) | Training-free LLM editing (abliteration): removes refusals, cuts slop and sycophancy | 2026-11-03 |
 
 ## LLM Inference
 
