@@ -23,6 +23,7 @@ alphabetical order.
 | Tech | What it is | Added |
 |---|---|---|
 | [Floci](https://github.com/floci-io/floci) | Free local AWS emulator (LocalStack alternative): no account or token, just docker compose up | 2026-11-03 |
+| [Kiri](https://runkiri.com) | Rust container runtime replacing Docker Desktop/OrbStack; speaks Docker API, ~2.5 ms starts | 2026-11-04 |
 
 ## LLM Customization
 
