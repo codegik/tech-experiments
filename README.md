@@ -26,6 +26,7 @@ alphabetical order.
 | [Floci](https://github.com/floci-io/floci) | Free local AWS emulator (LocalStack alternative): no account or token, just docker compose up | 2026-11-03 |
 | [Handy](https://handy.computer) | Free, open source offline speech-to-text desktop app: press a shortcut, speak, text is typed | 2026-11-04 |
 | [Kiri](https://runkiri.com) | Rust container runtime replacing Docker Desktop/OrbStack; speaks Docker API, ~2.5 ms starts | 2026-11-04 |
+| [Rune](https://github.com/anomalyco/rune) | Native GPU-rendered Rust UI framework; headless mode lets agents render to PNG and drive the app | 2026-11-15 |
 
 ## LLM Customization
 
