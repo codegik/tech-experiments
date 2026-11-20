@@ -13,6 +13,7 @@ alphabetical order.
 | [Craft Anything (ArtCraft)](https://getartcraft.com/apps/craft-anything) | Study a site, app or game with evidence-backed tools, then rebuild your own with a coding agent | 2026-11-05 |
 | [Cua](https://cua.ai) | Open-source infrastructure for computer-use agents: sandboxes, desktop driver and SDK | 2026-10-24 |
 | [dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) | Agent skill that turns a UI component into an Apple-style dimensional spec sheet, with optional motion | 2026-10-26 |
+| [Factory skills (Builder.io)](https://github.com/BuilderIO/skills/blob/main/docs/factory/README.md) | Builder.io agent skills that turn feedback, errors and telemetry into verified, policy-gated PRs | 2026-11-20 |
 | [Hallmark](https://www.usehallmark.com/) | Design skill for coding agents: 48 themes and a browser linter that rejects AI-looking pages | 2026-10-24 |
 | [Jev Ultrafast](https://github.com/browser-use/jev-ultrafast) | Browser agent where TypeSafe's Jev picks operation and element; a small LLM only types text | 2026-10-28 |
 | [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview) | Framework for agent graphs: explicit nodes, edges and shared state, with checkpoints and human approval | 2026-10-30 |
