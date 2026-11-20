@@ -27,6 +27,7 @@ alphabetical order.
 | [Handy](https://handy.computer) | Free, open source offline speech-to-text desktop app: press a shortcut, speak, text is typed | 2026-11-04 |
 | [Kiri](https://runkiri.com) | Rust container runtime replacing Docker Desktop/OrbStack; speaks Docker API, ~2.5 ms starts | 2026-11-04 |
 | [Rune](https://github.com/anomalyco/rune) | Native GPU-rendered Rust UI framework; headless mode lets agents render to PNG and drive the app | 2026-11-15 |
+| [UI SDK (Vercel)](https://ui-sdk.dev/) | Vercel's 50+ UI behaviors (focus, popups, selection) for agents to build and drive components | 2026-11-20 |
 
 ## LLM Customization
 
