@@ -18,6 +18,7 @@ alphabetical order.
 | [Jev Ultrafast](https://github.com/browser-use/jev-ultrafast) | Browser agent where TypeSafe's Jev picks operation and element; a small LLM only types text | 2026-10-28 |
 | [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview) | Framework for agent graphs: explicit nodes, edges and shared state, with checkpoints and human approval | 2026-10-30 |
 | [OpenBot](https://github.com/CopilotKit/OpenBot) | Self-hosted AI coworkers for teams: own browser, files and granted tools; every action audited | 2026-11-03 |
+| [OpenJarvis](https://openjarvis.stanford.edu/) | Stanford's local-first framework for personal AI agents on your own hardware; cloud is optional | 2026-11-22 |
 | [Security Audit skill (Cloudflare)](https://github.com/cloudflare/security-audit-skill) | Cloudflare's agent skill for multi-phase security audits; every finding is independently re-verified | 2026-11-20 |
 | [UTCP](https://www.utcp.io/) | Lets agents call tools directly via their native APIs, without an MCP-style wrapper server | 2026-11-03 |
 
