@@ -9,6 +9,7 @@ alphabetical order.
 
 | Tech | What it is | Added |
 |---|---|---|
+| [Cicada](https://cicada.indaloop.app/) | Open-source desktop/Android app for live captions, real-time voice translation and notes on any call | 2026-11-27 |
 | [Cloudflare Code Mode](https://developers.cloudflare.com/agents/tools/codemode/) | Agents write code that calls MCP/tools as typed methods, run in a sandbox, instead of one call each | 2026-10-28 |
 | [Craft Anything (ArtCraft)](https://getartcraft.com/apps/craft-anything) | Study a site, app or game with evidence-backed tools, then rebuild your own with a coding agent | 2026-11-05 |
 | [Cua](https://cua.ai) | Open-source infrastructure for computer-use agents: sandboxes, desktop driver and SDK | 2026-10-24 |
