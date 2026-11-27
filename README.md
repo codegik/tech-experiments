@@ -46,6 +46,7 @@ alphabetical order.
 | Tech | What it is | Added |
 |---|---|---|
 | [AirLLM](https://github.com/lyogavin/airllm) | Runs 70B+ LLMs on a single 4GB GPU by loading layers on demand, no quantization needed | 2026-10-24 |
+| [FreeVideo](https://freevideo-community.pages.dev/) | Open-source desktop app that runs MiniMax H3 video generation locally (NVIDIA GPU or Apple silicon) | 2026-11-27 |
 
 ## Testing
 
